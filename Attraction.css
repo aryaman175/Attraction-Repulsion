@@ -1,0 +1,59 @@
+p
+{
+  position: absolute;
+	left:72%;
+	top:20%;
+	font-family:sans-serif;
+}
+h1
+{
+	position: absolute;
+	left:75%;
+	top:0%;
+}
+h4
+{
+	position: absolute;
+	left:75%;
+	top:13%;
+	font-family: cursive;
+}
+
+button
+{
+	font-size:30px;
+	position: absolute;
+	left:950px;
+}
+#A
+{
+	top:40%;
+}
+#R
+{
+	top:50%;
+}
+#P
+{
+	top:60%;
+}
+
+.on{
+    color:blue;
+}
+
+
+#G
+{
+    top:70%;
+}
+
+.active
+{
+	color:blue;
+}
+
+#C
+{
+	top:80%;
+}
